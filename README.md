@@ -1,0 +1,2 @@
+# smart-agriculturale
+major project
